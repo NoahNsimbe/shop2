@@ -1,0 +1,77 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; 
+}
+body { margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+    /* color: rgb(13,33,140); 
+    font-size: small;
+    background-color: rgba(0,0,0,0.05); */
+}
+.mat-form-field{
+    font-size: small;
+}
+
+.main-style{
+    color: rgb(13,33,140);
+    text-align: center;
+}
+
+.radio-group {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0;
+    color: rgb(13,33,140);
+  }
+  
+  .radio-button {
+    margin: 5px;
+    color: rgb(13,33,140);
+  }
+
+/* body > a {
+    font-size: small;
+    color: rgb(13,33,140); 
+} */
+
+.example-icon {
+    padding: 0 14px;
+  }
+
+section{
+    background-color: rgba(0,0,0,0.05);
+}
+
+.container{
+    /* margin-top: 1%;
+    margin-bottom: 1%; */
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.mat-expansion-panel-header > :hover{
+    color: rgb(13,33,140);
+}
+
+.mat-menu-item{
+    font-size: small;
+    padding: 0px;
+    margin: 0px;
+    color: rgb(13,33,140);
+}
+  
+mat-list-item{
+    padding: 0px;
+    border-spacing: 0px;
+}
+
+.wrapbutton{
+    padding: 0px;
+    border: 0px;
+}
+
+button{
+    font-size: x-small;
+}
+
+

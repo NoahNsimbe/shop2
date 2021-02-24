@@ -1,0 +1,32 @@
+.footer-text{
+    cursor: pointer; 
+    color: rgb(247, 241, 241);
+    font-family: sans-serif;
+    padding: 0px;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 0px;
+}
+
+
+.footer-heading{
+    cursor: pointer; 
+    font-size: 16px;
+    color: white;
+    font-family: sans-serif;
+    padding: 0px;
+}
+
+.sticky-footer{
+    background-color: rgb(80, 77, 77);
+}
+
+li{
+    list-style-type: none;
+    margin-left: 0px;
+    text-align: left;
+}
+
+.icons{
+    padding-bottom: 4px;
+}

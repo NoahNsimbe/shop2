@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+
+  }
+  
+  tr.mat-footer-row {
+    font-weight: bold;
+  }
+
+  .button-row button,
+.button-row a {
+  margin-right: 8px;
+}
